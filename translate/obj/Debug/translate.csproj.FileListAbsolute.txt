@@ -1,0 +1,222 @@
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\translate.exe.config
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\translate.exe
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\translate.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.Form1.resources
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.Properties.Resources.resources
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.csproj.GenerateResource.Cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.csproj.CoreCompileInputs.cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.exe
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.csproj.ResolveComReference.cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Catharsis.Commons.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\RestSharp.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Yandex.Translator.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\YandexTranslate.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Catharsis.Commons.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Catharsis.Commons.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\RestSharp.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Yandex.Translator.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\bin\Debug\Yandex.Translator.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\obj\Debug\translate.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\translate.exe.config
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\translate.exe
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\translate.pdb
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Catharsis.Commons.dll
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Yandex.Translator.dll
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\YandexTranslate.dll
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Catharsis.Commons.pdb
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Catharsis.Commons.xml
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Yandex.Translator.pdb
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Yandex.Translator.xml
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate son\translate\translate\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.Form1.resources
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.Properties.Resources.resources
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.exe
+C:\Users\user\Desktop\translate son\translate\translate\obj\Debug\translate.pdb
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\translate.exe.config
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\translate.exe
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\translate.pdb
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Catharsis.Commons.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\commons-logging.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\fontbox-1.8.9.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\icu4j-3.8.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.Runtime.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\jempbox-1.8.9.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\junit.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Yandex.Translator.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\YandexTranslate.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Catharsis.Commons.pdb
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Catharsis.Commons.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Yandex.Translator.pdb
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Yandex.Translator.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.Form1.resources
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.Properties.Resources.resources
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.exe
+C:\Users\user\Desktop\translate\translate\translate\obj\Debug\translate.pdb
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\PdfSharp.Charting.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\PdfSharp.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\PdfSharp.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\PdfSharp.Charting.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\translate.exe.config
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\translate.exe
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\translate.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Catharsis.Commons.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\commons-logging.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\icu4j-3.8.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.Runtime.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\jempbox-1.8.9.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\junit.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\PdfSharp.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\RestSharp.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Yandex.Translator.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\YandexTranslate.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Catharsis.Commons.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Catharsis.Commons.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\PdfSharp.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\RestSharp.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Yandex.Translator.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\Yandex.Translator.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.csprojResolveAssemblyReference.cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.csproj.ResolveComReference.cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.Form1.resources
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.Properties.Resources.resources
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.csproj.GenerateResource.Cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.csproj.CoreCompileInputs.cache
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.exe
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.pdb
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\obj\Debug\translate.csproj.translate.exe.config
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\itextsharp.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\itextsharp.xtra.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\itextsharp.xml
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Kübra GENÇAĞA\source\repos\translate\translate\translate\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Api.Gax.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Translate.v2.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Cloud.Translation.V2.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Interactive.Async.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Net.Http.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Api.Gax.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Core.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Apis.Translate.v2.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\Google.Cloud.Translation.V2.xml
+C:\Users\user\Desktop\translate\translate\translate\bin\Debug\System.Interactive.Async.xml
